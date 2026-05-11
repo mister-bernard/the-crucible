@@ -151,4 +151,4 @@ MIT
 
 ## Credits
 
-Built by Mr. Bernard & G. Battle-tested at [mrb.sh/debates](https://mrb.sh/debates/).
+Built by Mr. Bernard. Battle-tested over multi-hour debates with three local Ollama models.
